@@ -1,2 +1,2 @@
 # hello-world
-Register, play &amp; watch!
+Register, watch &amp; play!
